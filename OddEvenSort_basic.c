@@ -3,8 +3,6 @@
 #include <assert.h>
 #include <mpi.h>
 
-
-
 int isSwap;
 void swap_float(float *a, float *b){
 	float t = *a;
