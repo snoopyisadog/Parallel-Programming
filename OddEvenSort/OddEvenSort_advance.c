@@ -1,3 +1,8 @@
+/**
+A New Parallel Sorting Algorithm based on Odd-Even Mergesort
+http://ieeexplore.ieee.org/document/4135254/
+**/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
